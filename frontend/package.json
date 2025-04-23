@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "e-commerce-app": "file:..",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.5.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
